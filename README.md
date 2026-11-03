@@ -1,6 +1,6 @@
 # 快手 LLM-Rec · 生成式推荐后训练实践
 
-面向算法／大模型推荐岗位的项目展示：数据质量、推理监督与分阶段后训练。
+面向算法／大模型推荐的项目展示：数据质量、推理监督与分阶段后训练。
 
 仓库地址：[a1750235782-a11y/Kuaishou-LLMRec-PostTraining](https://github.com/a1750235782-a11y/Kuaishou-LLMRec-PostTraining)（公开）。
 
