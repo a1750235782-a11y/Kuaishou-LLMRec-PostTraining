@@ -2,7 +2,7 @@
 
 面向算法／大模型推荐岗位的项目展示：数据质量、推理监督与分阶段后训练。
 
-仓库地址：[a1750235782-a11y/Kuaishou-LLMRec-PostTraining](https://github.com/a1750235782-a11y/Kuaishou-LLMRec-PostTraining)（私有）。
+仓库地址：[a1750235782-a11y/Kuaishou-LLMRec-PostTraining](https://github.com/a1750235782-a11y/Kuaishou-LLMRec-PostTraining)（公开）。
 
 **参赛成绩：最好排名第 29 名，最高得分 1.079。** 以上为作者提供，尚未附榜单截图、队伍身份及轮次证明；最好排名与最高得分不假定来自同一次提交。作者已确认亲自实现并运行过三组方案。这里的代码为新编写的精简教学示例，原始参赛代码、模型及训练日志暂未归档，运行示例不能复现该比赛分数。
 
@@ -61,4 +61,4 @@ requirements.txt
 - [DPO 原论文](https://arxiv.org/abs/2305.18290)，用于标准偏好损失的概念参考。
 - [比赛网站](https://ks-llmrec.streamlake.com/)，数据、规则及成绩应以相应比赛阶段官方材料为准。
 
-仓库初始按私有方式准备，尚未选择开源许可；参考资料与竞赛资产的权利归原权利人。
+仓库现已公开，尚未选择开源许可；参考资料与竞赛资产的权利归原权利人。
