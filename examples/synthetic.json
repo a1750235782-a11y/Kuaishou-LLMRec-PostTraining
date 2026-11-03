@@ -1,0 +1,14 @@
+{
+  "notice": "All IDs, trajectories and predictions are synthetic, not competition records.",
+  "catalog": ["prod:1:2:3", "prod:1:4:5", "prod:6:7:8", "video:1:2:3"],
+  "trajectories": [
+    {"reasoning": "用户浏览照明设备。", "sid": "prod:1:2:3"},
+    {"reasoning": "用户浏览照明设备。", "sid": "prod:1:2:3"},
+    {"reasoning": "用户关注便携露营装备。", "sid": "prod:1:2:3"},
+    {"reasoning": "错误候选示意。", "sid": "prod:6:7:8"}
+  ],
+  "evaluation": [
+    {"domain": "prod", "targets": ["prod:1:2:3"], "think": ["prod:1:2:3", "invalid"], "nothink": ["prod:6:7:8"]},
+    {"domain": "prod", "targets": ["prod:1:4:5"], "think": ["prod:6:7:8"], "nothink": ["video:1:2:3"]}
+  ]
+}
